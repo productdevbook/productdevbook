@@ -1,37 +1,26 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="80" height="80">
   <rect width="120" height="120" rx="12" fill="#0d1117"/>
-  <!-- { -->
-  <rect x="16" y="20" width="8" height="8" fill="#58a6ff"/>
-  <rect x="24" y="20" width="8" height="8" fill="#58a6ff"/>
-  <rect x="16" y="28" width="8" height="8" fill="#58a6ff"/>
-  <rect x="8" y="36" width="8" height="8" fill="#58a6ff"/>
-  <rect x="16" y="44" width="8" height="8" fill="#58a6ff"/>
-  <rect x="16" y="52" width="8" height="8" fill="#58a6ff"/>
-  <rect x="24" y="52" width="8" height="8" fill="#58a6ff"/>
-  <!-- 0 -->
-  <rect x="40" y="20" width="8" height="8" fill="#7ee787"/>
-  <rect x="48" y="20" width="8" height="8" fill="#7ee787"/>
-  <rect x="40" y="28" width="8" height="8" fill="#7ee787"/>
-  <rect x="56" y="28" width="8" height="8" fill="#7ee787"/>
-  <rect x="40" y="36" width="8" height="8" fill="#7ee787"/>
-  <rect x="56" y="36" width="8" height="8" fill="#7ee787"/>
-  <rect x="40" y="44" width="8" height="8" fill="#7ee787"/>
-  <rect x="56" y="44" width="8" height="8" fill="#7ee787"/>
-  <rect x="40" y="52" width="8" height="8" fill="#7ee787"/>
-  <rect x="48" y="52" width="8" height="8" fill="#7ee787"/>
-  <!-- } -->
-  <rect x="72" y="20" width="8" height="8" fill="#58a6ff"/>
-  <rect x="80" y="20" width="8" height="8" fill="#58a6ff"/>
-  <rect x="80" y="28" width="8" height="8" fill="#58a6ff"/>
-  <rect x="88" y="36" width="8" height="8" fill="#58a6ff"/>
-  <rect x="80" y="44" width="8" height="8" fill="#58a6ff"/>
-  <rect x="72" y="52" width="8" height="8" fill="#58a6ff"/>
-  <rect x="80" y="52" width="8" height="8" fill="#58a6ff"/>
+  <!-- < -->
+  <rect x="12" y="24" width="8" height="8" fill="#58a6ff"/>
+  <rect x="4" y="32" width="8" height="8" fill="#58a6ff"/>
+  <rect x="12" y="40" width="8" height="8" fill="#58a6ff"/>
+  <!-- / -->
+  <rect x="32" y="24" width="8" height="8" fill="#7ee787"/>
+  <rect x="28" y="32" width="8" height="8" fill="#7ee787"/>
+  <rect x="24" y="40" width="8" height="8" fill="#7ee787"/>
+  <!-- > -->
+  <rect x="44" y="24" width="8" height="8" fill="#58a6ff"/>
+  <rect x="52" y="32" width="8" height="8" fill="#58a6ff"/>
+  <rect x="44" y="40" width="8" height="8" fill="#58a6ff"/>
+  <!-- wind wave lines -->
+  <rect x="72" y="24" width="24" height="4" rx="2" fill="#58a6ff" opacity="0.7"/>
+  <rect x="80" y="32" width="28" height="4" rx="2" fill="#58a6ff" opacity="0.5"/>
+  <rect x="68" y="40" width="32" height="4" rx="2" fill="#58a6ff" opacity="0.3"/>
   <!-- underline bar -->
-  <rect x="16" y="76" width="88" height="4" rx="2" fill="#58a6ff" opacity="0.15"/>
-  <rect x="16" y="76" width="48" height="4" rx="2" fill="#58a6ff" opacity="0.5"/>
+  <rect x="4" y="64" width="112" height="3" rx="1.5" fill="#58a6ff" opacity="0.1"/>
+  <rect x="4" y="64" width="56" height="3" rx="1.5" fill="#7ee787" opacity="0.5"/>
   <!-- dots -->
-  <rect x="16" y="92" width="6" height="6" rx="3" fill="#7ee787" opacity="0.4"/>
-  <rect x="32" y="92" width="6" height="6" rx="3" fill="#58a6ff" opacity="0.4"/>
-  <rect x="48" y="92" width="6" height="6" rx="3" fill="#7ee787" opacity="0.4"/>
+  <rect x="4" y="80" width="5" height="5" rx="2.5" fill="#7ee787" opacity="0.4"/>
+  <rect x="16" y="80" width="5" height="5" rx="2.5" fill="#58a6ff" opacity="0.4"/>
+  <rect x="28" y="80" width="5" height="5" rx="2.5" fill="#7ee787" opacity="0.4"/>
 </svg>
