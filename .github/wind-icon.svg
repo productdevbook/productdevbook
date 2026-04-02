@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="80" height="80">
+  <rect width="120" height="120" rx="12" fill="#0d1117"/>
+  <!-- { -->
+  <rect x="16" y="20" width="8" height="8" fill="#58a6ff"/>
+  <rect x="24" y="20" width="8" height="8" fill="#58a6ff"/>
+  <rect x="16" y="28" width="8" height="8" fill="#58a6ff"/>
+  <rect x="8" y="36" width="8" height="8" fill="#58a6ff"/>
+  <rect x="16" y="44" width="8" height="8" fill="#58a6ff"/>
+  <rect x="16" y="52" width="8" height="8" fill="#58a6ff"/>
+  <rect x="24" y="52" width="8" height="8" fill="#58a6ff"/>
+  <!-- 0 -->
+  <rect x="40" y="20" width="8" height="8" fill="#7ee787"/>
+  <rect x="48" y="20" width="8" height="8" fill="#7ee787"/>
+  <rect x="40" y="28" width="8" height="8" fill="#7ee787"/>
+  <rect x="56" y="28" width="8" height="8" fill="#7ee787"/>
+  <rect x="40" y="36" width="8" height="8" fill="#7ee787"/>
+  <rect x="56" y="36" width="8" height="8" fill="#7ee787"/>
+  <rect x="40" y="44" width="8" height="8" fill="#7ee787"/>
+  <rect x="56" y="44" width="8" height="8" fill="#7ee787"/>
+  <rect x="40" y="52" width="8" height="8" fill="#7ee787"/>
+  <rect x="48" y="52" width="8" height="8" fill="#7ee787"/>
+  <!-- } -->
+  <rect x="72" y="20" width="8" height="8" fill="#58a6ff"/>
+  <rect x="80" y="20" width="8" height="8" fill="#58a6ff"/>
+  <rect x="80" y="28" width="8" height="8" fill="#58a6ff"/>
+  <rect x="88" y="36" width="8" height="8" fill="#58a6ff"/>
+  <rect x="80" y="44" width="8" height="8" fill="#58a6ff"/>
+  <rect x="72" y="52" width="8" height="8" fill="#58a6ff"/>
+  <rect x="80" y="52" width="8" height="8" fill="#58a6ff"/>
+  <!-- underline bar -->
+  <rect x="16" y="76" width="88" height="4" rx="2" fill="#58a6ff" opacity="0.15"/>
+  <rect x="16" y="76" width="48" height="4" rx="2" fill="#58a6ff" opacity="0.5"/>
+  <!-- dots -->
+  <rect x="16" y="92" width="6" height="6" rx="3" fill="#7ee787" opacity="0.4"/>
+  <rect x="32" y="92" width="6" height="6" rx="3" fill="#58a6ff" opacity="0.4"/>
+  <rect x="48" y="92" width="6" height="6" rx="3" fill="#7ee787" opacity="0.4"/>
+</svg>

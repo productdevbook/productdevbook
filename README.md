@@ -1,4 +1,4 @@
-<img align="right" src="./.github/pixel-code.svg" width="80" alt="Wind" />
+<img align="right" src="./.github/wind-icon.svg" width="80" alt="Wind" />
 
 # Hi, I'm Wind.
 
@@ -19,7 +19,6 @@ Open-source developer & [Nuxt](https://github.com/nuxt) · [H3](https://github.c
 
 <p align="center">
   <a href="https://github.com/sponsors/productdevbook">
-    <img src="./.github/pixel-heart.svg" width="18" alt="Sponsor" />
-    <strong>Sponsor my open-source work</strong>
+    💖 <strong>Sponsor my open-source work</strong>
   </a>
 </p>
