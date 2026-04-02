@@ -1,4 +1,4 @@
-<img align="right" src="./.github/wind-icon.svg" width="80" alt="Wind" />
+<img align="right" src="./.github/wind.svg" width="80" alt="Wind" />
 
 # Hi, I'm Wind.
 
