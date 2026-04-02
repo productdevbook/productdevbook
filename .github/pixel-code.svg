@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" width="80" height="80">
+  <style>
+    .p { fill: #58a6ff; }
+    .d { fill: #1f6feb; }
+    .b { fill: #0d1117; }
+  </style>
+  <!-- Background -->
+  <rect width="160" height="160" rx="16" class="b"/>
+  <!-- Terminal prompt pixel art -->
+  <!-- > -->
+  <rect x="24" y="40" width="12" height="12" class="p"/>
+  <rect x="36" y="52" width="12" height="12" class="p"/>
+  <rect x="24" y="64" width="12" height="12" class="p"/>
+  <!-- cursor line -->
+  <rect x="56" y="52" width="12" height="12" class="p"/>
+  <rect x="72" y="52" width="12" height="12" class="p"/>
+  <rect x="88" y="52" width="12" height="12" class="p"/>
+  <rect x="104" y="52" width="12" height="12" class="d"/>
+  <!-- T -->
+  <rect x="24" y="92" width="12" height="12" class="d"/>
+  <rect x="36" y="92" width="12" height="12" class="d"/>
+  <rect x="48" y="92" width="12" height="12" class="d"/>
+  <rect x="36" y="104" width="12" height="12" class="d"/>
+  <rect x="36" y="116" width="12" height="12" class="d"/>
+  <!-- S -->
+  <rect x="68" y="92" width="12" height="12" class="p"/>
+  <rect x="80" y="92" width="12" height="12" class="p"/>
+  <rect x="68" y="104" width="12" height="12" class="p"/>
+  <rect x="80" y="116" width="12" height="12" class="p"/>
+  <rect x="68" y="116" width="12" height="12" class="p"/>
+  <!-- Dots -->
+  <rect x="120" y="104" width="8" height="8" rx="4" class="p" opacity="0.5"/>
+  <rect x="136" y="104" width="8" height="8" rx="4" class="d" opacity="0.5"/>
+</svg>

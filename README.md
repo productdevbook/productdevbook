@@ -1,4 +1,10 @@
+<img align="right" src="./.github/pixel-code.svg" width="80" alt="Wind" />
+
 # Hi, I'm Wind.
+
+🌐 [productdevbook.com](https://productdevbook.com) · 𝕏 [@productdevbook](https://x.com/productdevbook)
+
+Open-source developer & [Nuxt](https://github.com/nuxt) · [H3](https://github.com/h3js) contributor. Currently looking for a full-time role — open to remote opportunities worldwide.
 
 ## Zero-Dependency TypeScript Libraries
 
@@ -8,3 +14,12 @@
 - 📧 [unemail](https://github.com/productdevbook/unemail): Email library — AWS SES, Resend, SMTP, and HTTP APIs. Multiple providers, one interface.
 
 > Pure TypeScript. No dependencies. Works everywhere.
+
+---
+
+<p align="center">
+  <a href="https://github.com/sponsors/productdevbook">
+    <img src="./.github/pixel-heart.svg" width="18" alt="Sponsor" />
+    <strong>Sponsor my open-source work</strong>
+  </a>
+</p>
