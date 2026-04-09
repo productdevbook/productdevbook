@@ -10,6 +10,7 @@ Open-source developer & [Nuxt](https://github.com/nuxt) · [H3](https://github.c
 
 - 📊 [hucre](https://github.com/productdevbook/hucre): Spreadsheet engine — read & write XLSX, CSV, ODS. Schema validation, streaming, tree-shakeable.
 - 🏷️ [etiket](https://github.com/productdevbook/etiket): Barcode & QR code generator — SVG & PNG output. 40+ formats, styled QR codes, tree-shakeable.
+- 🪟 [pencere](https://github.com/productdevbook/pencere): Lightbox — images, video, iframes & custom renderers. Native View Transitions morph, WCAG 2.2 AA, hooks + plugins, tree-shakeable.
 - 🍊 [portakal](https://github.com/productdevbook/portakal): Universal printer language SDK — TSC, ZPL, EPL, ESC/POS, CPCL, DPL, SBPL, Star PRNT, IPL. 9 languages, one API.
 - 🧂 [sumak](https://github.com/productdevbook/sumak): Type-safe SQL query builder — AST-first, hookable, zero dependencies. PostgreSQL, MySQL, SQLite.
 - 📧 [unemail](https://github.com/productdevbook/unemail): Email library — AWS SES, Resend, SMTP, and HTTP APIs. Multiple providers, one interface.
