@@ -9,8 +9,8 @@ Open-source developer & [Nuxt](https://github.com/nuxt) · [H3](https://github.c
 ## Zero-Dependency TypeScript Libraries
 
 - 📞 [ahize](https://github.com/productdevbook/ahize): Live-chat & customer-support widget SDK — Intercom, Crisp, Tawk, Zendesk, HubSpot, Chatwoot + 12 more. 18 providers, one API. Tree-shakeable, SSR-safe, CSP-aware.
-- 📊 [hucre](https://github.com/productdevbook/hucre): Spreadsheet engine — read & write XLSX, CSV, ODS. Schema validation, streaming, tree-shakeable.
 - 🏷️ [etiket](https://github.com/productdevbook/etiket): Barcode & QR code generator — SVG & PNG output. 40+ formats, styled QR codes, tree-shakeable.
+- 📊 [hucre](https://github.com/productdevbook/hucre): Spreadsheet engine — read & write XLSX, CSV, ODS. Schema validation, streaming, tree-shakeable.
 - 🪟 [pencere](https://github.com/productdevbook/pencere): Lightbox — images, video, iframes & custom renderers. Native View Transitions morph, WCAG 2.2 AA, hooks + plugins, tree-shakeable.
 - 🍊 [portakal](https://github.com/productdevbook/portakal): Universal printer language SDK — TSC, ZPL, EPL, ESC/POS, CPCL, DPL, SBPL, Star PRNT, IPL. 9 languages, one API.
 - 🧂 [sumak](https://github.com/productdevbook/sumak): Type-safe SQL query builder — AST-first, hookable, zero dependencies. PostgreSQL, MySQL, SQLite.
