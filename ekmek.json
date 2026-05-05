@@ -1,0 +1,16 @@
+{                                                                                                                                                                  
+    "name": "Wind",                                  
+    "title": "Full Stack Developer",                                                                                                                                 
+    "available": "open-to-offers",
+    "timezone": "Europe/Istanbul",                                                                                                                                   
+    "site": "productdevbook.com",                    
+    "github": "productdevbook",                
+    "skills": [                                                                                                                                                      
+      { "name": "TypeScript", "level": 0.95 },
+      { "name": "Vue", "level": 0.9 },                                                                                                                               
+      { "name": "Nuxt", "level": 0.9 },              
+      { "name": "Node.js", "level": 0.85 },                                                                                                                          
+      { "name": "Cloudflare Workers", "level": 0.8 },
+      { "name": "PostgreSQL", "level": 0.75 }                                                                                                                        
+    ]                                                                                                                                                                
+  }
