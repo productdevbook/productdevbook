@@ -1,16 +1,161 @@
-{                                                                                                                                                                  
-    "name": "Wind",                                  
-    "title": "Full Stack Developer",                                                                                                                                 
-    "available": "open-to-offers",
-    "timezone": "Europe/Istanbul",                                                                                                                                   
-    "site": "productdevbook.com",                    
-    "github": "productdevbook",                
-    "skills": [                                                                                                                                                      
-      { "name": "TypeScript", "level": 0.95 },
-      { "name": "Vue", "level": 0.9 },                                                                                                                               
-      { "name": "Nuxt", "level": 0.9 },              
-      { "name": "Node.js", "level": 0.85 },                                                                                                                          
-      { "name": "Cloudflare Workers", "level": 0.8 },
-      { "name": "PostgreSQL", "level": 0.75 }                                                                                                                        
-    ]                                                                                                                                                                
+{
+  "$schema": "https://api.ekmek.dev/schema/v1/developer.schema.json",
+  "basics": {
+    "name": "Ethan Carter",
+    "label": "Full Stack Developer",
+    "summary": "Full Stack Developer with a strong focus on building scalable web applications and APIs. Experienced in modern JavaScript frameworks, cloud infrastructure, and agile development.",
+    "email": "ethan.carter.dev@example.com",
+    "url": "https://ethancarter.dev",
+    "image": "https://randomuser.me/api/portraits/men/32.jpg",
+    "location": {
+      "city": "Berlin",
+      "region": "Berlin",
+      "countryCode": "DE"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "ethancarterdev",
+        "url": "https://github.com/ethancarterdev"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "ethan-carter",
+        "url": "https://linkedin.com/in/ethan-carter"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "TechNova Solutions",
+      "position": "Senior Full Stack Developer",
+      "startDate": "2022-03",
+      "summary": "Leading development of cloud-native applications and mentoring junior developers.",
+      "highlights": [
+        "Designed and implemented microservices architecture",
+        "Improved system performance by 35%",
+        "Led a team of 5 developers"
+      ],
+      "location": "Berlin, Germany",
+      "url": "https://technova.example.com"
+    },
+    {
+      "name": "BlueWave Labs",
+      "position": "Frontend Developer",
+      "startDate": "2019-06",
+      "endDate": "2022-02",
+      "summary": "Developed responsive web interfaces and improved user experience.",
+      "highlights": [
+        "Built reusable React components",
+        "Reduced page load time by 40%",
+        "Collaborated closely with UX designers"
+      ],
+      "location": "Hamburg, Germany",
+      "url": "https://bluewave.example.com"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Technical University of Munich",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2015",
+      "endDate": "2019",
+      "score": "1.7"
+    }
+  ],
+  "skills": [
+    {
+      "name": "JavaScript",
+      "level": "expert",
+      "keywords": ["ES6", "Node.js", "React", "Vue"],
+      "yearsOfExperience": 6
+    },
+    {
+      "name": "Backend Development",
+      "level": "advanced",
+      "keywords": ["Node.js", "Express", "REST APIs"],
+      "yearsOfExperience": 5
+    },
+    {
+      "name": "Cloud & DevOps",
+      "level": "intermediate",
+      "keywords": ["AWS", "Docker", "CI/CD"],
+      "yearsOfExperience": 3
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "native"
+    },
+    {
+      "language": "German",
+      "fluency": "professional"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "AWS Certified Developer – Associate",
+      "date": "2023-05",
+      "issuer": "Amazon Web Services",
+      "url": "https://aws.amazon.com/certification/"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Employee of the Year",
+      "date": "2023",
+      "awarder": "TechNova Solutions",
+      "summary": "Recognized for outstanding contributions to product development."
+    }
+  ],
+  "publications": [
+    {
+      "name": "Scaling Modern Web Applications",
+      "publisher": "Dev Journal",
+      "releaseDate": "2022-11",
+      "url": "https://devjournal.example.com/scaling-web-apps",
+      "summary": "An article about scaling frontend and backend systems efficiently."
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Code for Good",
+      "position": "Volunteer Developer",
+      "startDate": "2021-01",
+      "summary": "Built web applications for non-profit organizations.",
+      "url": "https://codeforgood.example.com"
+    }
+  ],
+  "projects": [
+    {
+      "name": "TaskFlow",
+      "description": "A productivity web app for managing tasks and teams.",
+      "roles": ["Developer", "Designer"],
+      "url": "https://github.com/ethancarterdev/taskflow",
+      "keywords": ["productivity", "react", "node"],
+      "startDate": "2021-06",
+      "endDate": "2022-01",
+      "stars": 120
+    }
+  ],
+  "ekmek": {
+    "timezone": "Europe/Istanbul",
+    "availability": "open-to-offers",
+    "workplacePreference": "remote",
+    "seniority": "senior",
+    "yearsOfExperience": 6,
+    "relocation": true,
+    "rate": {
+      "currency": "EUR",
+      "min": 4000,
+      "max": 6000,
+      "period": "month"
+    },
+    "visa": {
+      "country": "DE",
+      "requiresSponsorship": false
+    }
   }
+}
