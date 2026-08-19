@@ -19,6 +19,10 @@ Open-source developer & [Nuxt](https://github.com/nuxt) · [H3](https://github.c
 
 > Pure TypeScript. No dependencies. Works everywhere.
 
+## Self-Hosted Apps
+
+- 💓 [nabiz](https://github.com/productdevbook/nabiz): Status page — one Cloudflare Worker on the free tier, or one container you own. Astro page, a probe a minute, D1 or SQLite. Five languages, JSON API, RSS, SVG badge, llms.txt.
+
 ---
 
 <p align="center">
