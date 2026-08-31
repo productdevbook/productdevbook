@@ -9,6 +9,7 @@ Open-source developer & [Nuxt](https://github.com/nuxt) · [H3](https://github.c
 ## Zero-Dependency TypeScript Libraries
 
 - 📞 [ahize](https://github.com/productdevbook/ahize): Live-chat & customer-support widget SDK — Intercom, Crisp, Tawk, Zendesk, HubSpot, Chatwoot + 12 more. 18 providers, one API. Tree-shakeable, SSR-safe, CSP-aware.
+- 🔗 [cizgile](https://github.com/productdevbook/cizgile): URL slug engine — RFC 3986/3987 slugs, transliteration for 7 scripts, Unicode slugs, IRI ↔ URI, percent-encoding. Zero dependencies, tree-shakeable.
 - 🏷️ [etiket](https://github.com/productdevbook/etiket): Barcode & QR code generator — SVG & PNG output. 40+ formats, styled QR codes, tree-shakeable.
 - 📊 [hucre](https://github.com/productdevbook/hucre): Spreadsheet engine — read & write XLSX, CSV, ODS. Schema validation, streaming, tree-shakeable.
 - 🎣 [misina](https://github.com/productdevbook/misina): Driver-based fetch-first HTTP client — hooks, retry, redirect security, RFC 9111 cache, RFC 6265 cookies, Idempotency-Key on retry, RFC 9457 problem+json, circuit breaker, SSE/NDJSON, OpenAPI types.
